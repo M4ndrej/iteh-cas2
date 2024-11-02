@@ -20,6 +20,8 @@
         exit(); //funkcija ekvivalentna exit() funkciji
     }
 
+    
+
 
 ?>
 
